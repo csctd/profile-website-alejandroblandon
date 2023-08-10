@@ -53,3 +53,15 @@ Since you're here, you might be:
 - Senior Gusto
 - Mungdall  
 <!-- make a bulleted list of 3 fictional visitors to your site. Include a few detials about them that could impact how you design for them. For each visitor, assign a task or goal they have for visiting your profile website -->
+
+## Design
+
+I will optimize the message I'm trying to send through my website by making the design clean and organized. By using headers, sub-headers, links to diffrent parts of the site will make it easier for the reader to naviagate.
+
+## Accessibility
+
+My site will be accessible in these ways.
+- Images with Alt text
+- Accessibility options like font sizing
+- Be conscious of color and contrast
+I can use an online website accessibility checker to test if my site is in good standing or needs some changes.
