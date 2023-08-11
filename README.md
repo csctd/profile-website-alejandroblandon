@@ -49,9 +49,9 @@ Welcome to my profile webiste, Professors and peers
 <!-- enter your target audience after the comma above -->
 
 Since you're here, you might be: 
-- Comiado man 
-- Senior Gusto
-- Mungdall  
+- Comiado man: Comiado man is a student at URI who is struggling with his coding homework. He knows I am done with it and would like some help with it. Therefore, he wants to visit my site to get my contact information.
+- Senior Gusto: He is the manager at Gusto Incorporated and he wants to know what work I have done in the past to help him make his decision to hire me or not.
+- Mungdall: Mungdall is a TD alumni who also went for computer science. He wants to see what the future generation is up to as his computer science career failed and he is now a world class chef.
 <!-- make a bulleted list of 3 fictional visitors to your site. Include a few detials about them that could impact how you design for them. For each visitor, assign a task or goal they have for visiting your profile website -->
 
 ## Design
