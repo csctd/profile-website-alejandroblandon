@@ -1,5 +1,6 @@
 # Pechakucha
 
+
 ```{include} _static/play_pause.html
 ```
 
@@ -15,3 +16,4 @@
 
 ![flag of Colombia](_static/img/image-1.png)
 ```
+
