@@ -1,9 +1,7 @@
 # Welcome
 
-A short introduction for the top of your main page
+My name is Alejandro Blandon. I'm very excited to begin my journey to becoming the best computer scientist I can be! 
 
-
-More content you want on your page
 
 ```{toctree}
 :maxdepth: 2

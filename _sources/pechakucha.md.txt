@@ -11,6 +11,14 @@
 ```
 
 
+
+```{card}
+:class-card: slide
+
+![4th lounge](_static/img/Lounge4.jpg)
+```
+
+
 ```{card}
 :class-card: slide
 
@@ -39,6 +47,12 @@
 ![Soccer](_static/img/Soccer.jpg)
 ```
 
+
+```{card}
+:class-card: slide
+
+![Volleyball](_static/img/volleyball.jpg)
+```
 
 
 
@@ -73,7 +87,7 @@
 ```{card}
 :class-card: slide
 
-![Frist Website with Aniss](_static/img/First%20Website.png)
+![Frist Website with Aniss](_static/img/FirstWebsite.png)
 ```
 
 
@@ -82,22 +96,22 @@
 ```{card}
 :class-card: slide
 
-![Second Website](_static/img/Website%202.png)
+![Second Website](_static/img/Website2.png)
 ```
-
 
 
 
 ```{card}
 :class-card: slide
 
-![Jupyter Crash](_static/img/JupyterLab%20Broke.png)
+![Jupyter Crash](_static/img/JupyterLabBroke.png)
 ```
+
 
 ```{card}
 :class-card: slide
 
-![Sleep](_static/img/Sleep%20Grade.PNG)
+![Sleep](_static/img/SleepGrade.PNG)
 ```
 
 
@@ -115,7 +129,14 @@
 ```{card}
 :class-card: slide
 
-![Ice cream](_static/img/ice%20cream.jpg)
+![Ice cream](_static/img/icecream.jpg)
+```
+
+
+```{card}
+:class-card: slide
+
+![URI Statue](_static/img/uristatue.jpg)
 ```
 
 
@@ -142,52 +163,8 @@
 ```{card}
 :class-card: slide
 
-![Jaiden](_static/img/Jaiden.jpg)
+![Jaiden actually david](_static/img/Jaiden.jpg)
 ```
 
 
-
-
-```{card}
-:class-card: slide
-
-![flag of Colombia](_static/img/image-1.png)
-```
-
-
-
-
-```{card}
-:class-card: slide
-
-![flag of Colombia](_static/img/image-1.png)
-```
-
-
-
-
-```{card}
-:class-card: slide
-
-![flag of Colombia](_static/img/image-1.png)
-```
-
-
-
-
-
-```{card}
-:class-card: slide
-
-![flag of Colombia](_static/img/image-1.png)
-```
-
-
-
-
-```{card}
-:class-card: slide
-
-![flag of Colombia](_static/img/image-1.png)
-```
 
