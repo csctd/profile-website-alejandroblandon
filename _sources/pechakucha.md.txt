@@ -1,7 +1,9 @@
 # Pechakucha
 
+<div id="slideshow">
 
-```{include} _static/play_pause.html
+
+```{include} _static/buttons.html
 ```
 
 ```{card}
@@ -165,6 +167,6 @@
 
 ![Jaiden actually david](_static/img/Jaiden.jpg)
 ```
-
+</div>
 
 
